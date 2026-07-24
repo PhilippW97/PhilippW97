@@ -59,7 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PhilippW97&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Philipp Walter GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippW97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Philipp Walter most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippW97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Philipp Walter most used languag[...]
 </p>
 
 <p align="center">
