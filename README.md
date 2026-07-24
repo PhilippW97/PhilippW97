@@ -71,12 +71,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhilippW97&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Philipp Walter GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippW97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Philipp Walter most used languag[...]
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PhilippW97&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippW97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PhilippW97&theme=tokyonight&hide_border=true" alt="Philipp Walter GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=PhilippW97&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <picture>
