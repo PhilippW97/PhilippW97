@@ -71,8 +71,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=PhilippW97&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&v=2" alt="stats" />
-  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PhilippW97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" alt="top langs" />
+  <img height="165" src="https://grs.philippwalter.dev/api?username=PhilippW97&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://grs.philippwalter.dev/api/top-langs/?username=PhilippW97&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
